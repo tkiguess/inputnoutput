@@ -16,6 +16,6 @@ public class inputine
         num2 = keyboard.nextDouble();
 
 
-        System.out.println("The max value is : " + Math.max(num1, num2));
+        System.out.println("The average is : " + (num1 + num2)/ 2);
     }
 }
